@@ -18,7 +18,6 @@ public class Solution {
 
         while ( left != right){
             if (right == null || right.next == null){
-                System.gc();
                 return false;
             } 
 
