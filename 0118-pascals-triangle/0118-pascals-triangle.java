@@ -21,7 +21,7 @@ class Solution {
             asl.add(1);
             result.add(asl);
         }
-
+        asl = null;
         return result;
     }
 }
