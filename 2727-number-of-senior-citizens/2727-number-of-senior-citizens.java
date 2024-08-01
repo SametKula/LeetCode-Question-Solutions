@@ -3,8 +3,13 @@ class Solution {
         int result = 0;
 
         for(String detail: details){
-            if (Integer.parseInt(detail.substring(11,13)) > 60)
+
+            int firstLetter = detail.charAt(11) - '0';
+            int secondLetter = detail.charAt(12) - '0';
+
+            if(firstLetter  * 10 + secondLetter > 60){
                 result++;
+            }
         }
 
         return result;
