@@ -1,13 +1,13 @@
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
-        int[] res = new int[1001];
+        short[] res = new short[1001];
 
-        for(int i = 0; i<arr.length; i++){
+        for(short i = 0; i<arr.length; i++){
             res[arr[i]]++;
             res[target[i]]--;
         }
 
-        for(int e: res)
+        for(short e: res)
             if(e != 0)
                 return false;
 
