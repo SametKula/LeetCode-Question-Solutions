@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/0001-two-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/0001-two-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SametKula/LeetCode-Question-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
